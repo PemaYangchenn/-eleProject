@@ -1,0 +1,81 @@
+nav {
+    background-color: rgb(10, 10, 13);
+    color:rgb(218, 239, 96);
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+
+nav li a:hover {
+    color: rgb(66, 226, 127);
+}
+
+.container {
+    max-width: 550px;
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-header {
+    background-color: rgb(10, 57, 85);
+    color: rgb(255, 255, 255);
+    padding-left: 40%;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ced4da; /* Bootstrap gray border color */
+    border-radius: 4px;
+}
+
+.btn-primary {
+    background-color: #0d0e0f;
+    border-color: #2a0962;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #410a65;
+    border-color: #0056b3;
+}
+
+
+
+
+
