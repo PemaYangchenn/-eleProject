@@ -1,4 +1,4 @@
-# eLearning System Project
+# ELE Project
 
 This project is a web-based **eLearning platform** designed to facilitate the delivery of educational content and improve online learning experiences. It provides a space where users can access learning materials, interact with content, and manage their learning journey efficiently.
 
